@@ -1,7 +1,14 @@
 /* game board table */
+body {
+  background-color:darkgray
+}
+
 h1 {
   text-align: center;
   font-family: sans-serif;
+  color: rgb(1, 132, 73);
+  letter-spacing: 2.5px;
+  font-size:56px;
 }
 
 #board {
